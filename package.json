@@ -1,0 +1,11 @@
+{
+  "name": "scratchpad-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/socheatsok78/scratchpad-typescript",
+  "author": "Socheat Sok <socheatsok78@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.7.3"
+  }
+}
